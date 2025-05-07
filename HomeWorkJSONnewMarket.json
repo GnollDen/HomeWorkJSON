@@ -1,0 +1,117 @@
+﻿[
+  {
+    "Name": "У Палыча",
+    "Capacity": 20,
+    "Showcase": {
+      "apple": {
+        "Name": "Apple",
+        "Stock": 4,
+        "Price": 50,
+        "Sold": 5,
+        "Revenue": 250
+      },
+      "oranges": {
+        "Name": "Oranges",
+        "Stock": 4,
+        "Price": 150,
+        "Sold": 5,
+        "Revenue": 750
+      }
+    },
+    "TotalStock": 8,
+    "TotalRevenue": 1000,
+    "TotalSold": 10
+  },
+  {
+    "Name": "Своя грядка",
+    "Capacity": 18,
+    "Showcase": {
+      "apple": {
+        "Name": "Apple",
+        "Stock": 7,
+        "Price": 55,
+        "Sold": 8,
+        "Revenue": 440
+      },
+      "oranges": {
+        "Name": "Oranges",
+        "Stock": 6,
+        "Price": 145,
+        "Sold": 15,
+        "Revenue": 2175
+      }
+    },
+    "TotalStock": 13,
+    "TotalRevenue": 2615,
+    "TotalSold": 23
+  },
+  {
+    "Name": "Свежие фрукты",
+    "Capacity": 23,
+    "Showcase": {
+      "apple": {
+        "Name": "Apple",
+        "Stock": 8,
+        "Price": 52,
+        "Sold": 6,
+        "Revenue": 312
+      },
+      "oranges": {
+        "Name": "Oranges",
+        "Stock": 4,
+        "Price": 145,
+        "Sold": 2,
+        "Revenue": 290
+      }
+    },
+    "TotalStock": 12,
+    "TotalRevenue": 602,
+    "TotalSold": 8
+  },
+  {
+    "Name": "Витамины",
+    "Capacity": 12,
+    "Showcase": {
+      "apple": {
+        "Name": "Apple",
+        "Stock": 6,
+        "Price": 52,
+        "Sold": 4,
+        "Revenue": 208
+      },
+      "oranges": {
+        "Name": "Oranges",
+        "Stock": 5,
+        "Price": 145,
+        "Sold": 3,
+        "Revenue": 435
+      }
+    },
+    "TotalStock": 11,
+    "TotalRevenue": 643,
+    "TotalSold": 7
+  },
+  {
+    "Name": "Фрукты и овощи",
+    "Capacity": 15,
+    "Showcase": {
+      "apple": {
+        "Name": "Apple",
+        "Stock": 3,
+        "Price": 54,
+        "Sold": 9,
+        "Revenue": 486
+      },
+      "oranges": {
+        "Name": "Oranges",
+        "Stock": 3,
+        "Price": 150,
+        "Sold": 7,
+        "Revenue": 1050
+      }
+    },
+    "TotalStock": 6,
+    "TotalRevenue": 1536,
+    "TotalSold": 16
+  }
+]

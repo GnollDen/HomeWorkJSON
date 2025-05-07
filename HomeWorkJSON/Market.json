@@ -1,0 +1,52 @@
+[
+  {
+    "MarketName": "У Палыча",
+    "StorageCapacity": 20,
+    "ApplePrice": 50,
+    "OrangePrice": 150,
+    "AppleCount": 4,
+    "AppleSold": 5,
+    "OrangeCount": 4,
+    "OrangeSold": 5
+  },
+  {
+    "MarketName": "Своя грядка",
+    "StorageCapacity": 18,
+    "ApplePrice": 55,
+    "OrangePrice": 145,
+    "AppleCount": 7,
+    "AppleSold": 8,
+    "OrangeCount": 6,
+    "OrangeSold": 15
+  },
+  {
+    "MarketName": "Свежие фрукты",
+    "StorageCapacity": 23,
+    "ApplePrice": 52,
+    "OrangePrice": 145,
+    "AppleCount": 8,
+    "AppleSold": 6,
+    "OrangeCount": 4,
+    "OrangeSold": 2
+  },
+  {
+    "MarketName": "Витамины",
+    "StorageCapacity": 12,
+    "ApplePrice": 52,
+    "OrangePrice": 145,
+    "AppleCount": 6,
+    "AppleSold": 4,
+    "OrangeCount": 5,
+    "OrangeSold": 3
+  },
+  {
+    "MarketName": "Фрукты и овощи",
+    "StorageCapacity": 15,
+    "ApplePrice": 54,
+    "OrangePrice": 150,
+    "AppleCount": 3,
+    "AppleSold": 9,
+    "OrangeCount": 3,
+    "OrangeSold": 7
+  }
+]
